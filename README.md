@@ -1,9 +1,9 @@
-<img src="https://raw.githubusercontent.com/nicolo-mn/nicolo-mn/images/programmer.gif"/>
+<img src="https://raw.githubusercontent.com/nicolo-mn/nicolo-mn/main/images/programmer.gif"/>
 <h1 align="center">Hi 👋, I'm Nicolò Monaldini</h1>
 <h3 align="center">A Computer Science and Engineering student from Rimini, Italy.</h3>
 
 <p align="left">
-I'm a first year Master's student of a <a href="https://corsi.unibo.it/2cycle/ComputerScienceEngineering" target="blank"> CSE Master's Degree at University of Bologna</a> and I expect to graduate in 2026.
+I'm a first year Master's student in <a href="https://corsi.unibo.it/2cycle/ComputerScienceEngineering" target="blank"> Computer Science and Engineering at University of Bologna</a> and I expect to graduate in 2026.
 </p>
 
 <h3 align="left">Mottos</h3>
