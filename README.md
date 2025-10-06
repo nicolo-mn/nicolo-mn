@@ -3,7 +3,7 @@
 <h3 align="center">A Computer Science and Engineering student from Rimini, Italy.</h3>
 
 <p align="left">
-I'm a first year Master's student in <a href="https://corsi.unibo.it/2cycle/ComputerScienceEngineering" target="blank"> Computer Science and Engineering at University of Bologna</a> and I expect to graduate in 2026.
+I'm a second year Master's student in <a href="https://corsi.unibo.it/2cycle/ComputerScienceEngineering" target="blank"> Computer Science and Engineering at University of Bologna</a> and I'm interested in many fields, such as algorithms, data structures, artificial intelligence, Linux systems and open-source development.
 </p>
 
 <h3 align="left">Mottos</h3>
