@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/nicolo-mn/nicolo-mn/main/images/programmer.gif"/>
 <h1 align="center">Hi 👋, I'm Nicolò Monaldini</h1>
-<h3 align="center">A Computer Science and Engineering student from Rimini, Italy.</h3>
+<h3 align="center">Computer Science and Engineering student</h3>
 
 <p align="left">
 I'm a second year Master's student in <a href="https://corsi.unibo.it/2cycle/ComputerScienceEngineering" target="blank"> Computer Science and Engineering at University of Bologna</a> and I'm interested in many fields, such as algorithms, data structures, artificial intelligence, Linux systems and open-source development.
